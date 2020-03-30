@@ -6,6 +6,15 @@ This repository contains code and data for several types of patch data. There wi
 
 ## Bittium
 
+This data is stored in EDF format. The Physionet WFDB software allows for _simple_ conversion into other formats (e.g. MATLAB, python, etc). Ideally best stored or save as MAT format for processing.
+
+Resources:
+
+https://archive.physionet.org/faq.shtml
+https://www.physionet.org/physiotools/wpg/wpg_35.htm
+
+
+
 ## Cardea Solo
 
 # Comparison of Patches
