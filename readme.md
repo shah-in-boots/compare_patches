@@ -21,6 +21,10 @@ https://www.physionet.org/physiotools/wpg/wpg_35.htm
 
 # Comparison of Patches
 
-The quality of the data will be compared here, both as raw RR intervals as well as processed HRV. 
+The quality of the data will be compared here, both as raw RR intervals as well as processed HRV. To guide comparison, we should have several measures of differences here:
+
+- how do RR intervals compare between devices?
+- how do RR intervals compare when adjusting SQI and capture qualities of RR generation?
+- how doe the changes and differences in both the RR quality and the device itself lead to changes in HRV results?
 
 
